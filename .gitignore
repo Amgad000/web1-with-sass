@@ -1,0 +1,3 @@
+#ignoring sass files
+sass/
+*.scss
